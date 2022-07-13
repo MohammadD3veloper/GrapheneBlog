@@ -1,0 +1,13 @@
+posts/
+.git/
+db.sqlite3
+.vscode/
+plan/migrations/0*
+plan/migrations/__pycache__/
+graphene_blog/__pycache__
+blog/migrations/0*
+blog/migrations/__pycache__
+blog/__pycache__
+accounts/__pycache__
+accounts/migrations/__pycache__
+accounts/migrations/0*
